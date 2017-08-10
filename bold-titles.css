@@ -19,8 +19,7 @@
 #pageName h1, #pageName-trim h1,
 .free-text h1, .free-text h2,
 .topfares,
-.bannerContainerNoOverlay .bannerHeader
-{
+.bannerContainerNoOverlay .bannerHeader {
     letter-spacing: 1px;
     text-transform: uppercase;
     font-family: "Montserrat-SemiBold" !important;
@@ -37,6 +36,6 @@
     color: #52585d;
 }
 
-h3.corporate-login-heading {
+.corporate-login-heading {
     font-size: 20px;
 }
