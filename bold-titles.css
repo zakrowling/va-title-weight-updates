@@ -1,0 +1,43 @@
+
+/* Apply block styling to VA.com headings */
+
+@font-face {
+	font-family: "Montserrat-SemiBold";
+	src: url("https://img.virginaustralia.com/cs/groups/internetasset/@wc/documents/webasset/~edisp/css_font_montserrat_semi_eot.eot");
+	src: url("https://img.virginaustralia.com/cs/groups/internetasset/@wc/documents/webasset/~edisp/css_font_montserrat_semi_eot.eot?") format('embedded-opentype'), url("https://img.virginaustralia.com/cs/groups/internetasset/@wc/documents/webasset/~edisp/css_font_montserrat_semi_otf.otf") format('opentype');
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+}
+
+
+#mega-nav ul.level1 li.mega-nav-item  a span.mega-nav-shim-left,
+.gradient-panel-header,
+.promo-squares h4,
+.mega-nav-content .mega-nav-group .level2 .mega-nav-sub-name,
+h3.corporate-login-heading,
+.widget-option h3,
+#pageName h1, #pageName-trim h1,
+.free-text h1, .free-text h2,
+.topfares,
+.bannerContainerNoOverlay .bannerHeader
+{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: "Montserrat-SemiBold" !important;
+}
+
+
+#mega-nav ul.level1 li.mega-nav-item  a span.mega-nav-shim-left {
+    font-size: 12px;
+    letter-spacing: 0.5px;
+    padding: 0 15px !important;
+}
+
+.mega-nav-content .mega-nav-group .level2 .mega-nav-sub-name {
+    color: #52585d;
+}
+
+h3.corporate-login-heading {
+    font-size: 20px;
+}
