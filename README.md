@@ -7,10 +7,10 @@
 `
 @import url(https://rawgit.com/zakrowling/va-web-font-updates/master/_all.css);
 `
-### VA.com
+### VA.com (caps headings)
 * Mega-nav (level 1 and titles for level 2)
 * Mega-nav business travel titles
 * Homepage gradient panel title
 * Homepage promo squares
-* Heading 1 and heading 2 for content pages
+* Heading 1, heading 2 and heading 3 for content pages
 * Top fares title
