@@ -20,7 +20,7 @@
 .free-text h1, .free-text h2, .free-text h3,
 .topfares,
 .bannerContainerNoOverlay .bannerHeader {
-    letter-spacing: 1.5px;
+    letter-spacing: 2px;
     text-transform: uppercase;
     font-family: "Montserrat-SemiBold" !important;
 }
