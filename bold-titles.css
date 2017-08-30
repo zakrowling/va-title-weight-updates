@@ -42,7 +42,6 @@
 
 /* Increase letter spacing of page headings and banner heading */
 #pageName h1, #pageName-trim h1,
-.overlay .bannerHeader,
-.overlay .bannerHeader span {
+.overlay .bannerHeader {
     letter-spacing: 4px !important;
 }
