@@ -19,16 +19,11 @@
 #pageName h1, #pageName-trim h1,
 .free-text h1, .free-text h2, .free-text h3,
 .topfares,
-.bannerContainerNoOverlay .bannerHeader,
-.bannerContainerNoOverlay .bannerHeader span {
+.overlay .bannerHeader,
+.overlay .bannerHeader span {
     letter-spacing: 2px;
     text-transform: uppercase;
     font-family: "Montserrat-SemiBold" !important;
-}
-
-.bannerContainerNoOverlay .bannerHeader,
-.bannerContainerNoOverlay .bannerHeader span {
-    letter-spacing: 4px;
 }
 
 #mega-nav ul.level1 li.mega-nav-item  a span.mega-nav-shim-left {
@@ -46,7 +41,8 @@
 }
 
 /* Increase letter spacing of page headings and banner heading */
+#pageName h1, #pageName-trim h1,
 .overlay .bannerHeader,
-#pageName h1, #pageName-trim h1 {
+.overlay .bannerHeader span {
     letter-spacing: 4px !important;
 }
