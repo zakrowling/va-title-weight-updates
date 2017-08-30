@@ -26,6 +26,11 @@
     font-family: "Montserrat-SemiBold" !important;
 }
 
+.bannerContainerNoOverlay .bannerHeader,
+.bannerContainerNoOverlay .bannerHeader span {
+    letter-spacing: 4px;
+}
+
 #mega-nav ul.level1 li.mega-nav-item  a span.mega-nav-shim-left {
     font-size: 12px;
     letter-spacing: 0.5px;
