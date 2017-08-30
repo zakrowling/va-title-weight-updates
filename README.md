@@ -5,7 +5,7 @@
 2. Open the extension and in the CSS tab, paste the following line and refresh your browser:
 
 `
-@import url(https://rawgit.com/zakrowling/va-web-font-updates/master/_all.css);
+@import url(https://rawgit.com/zakrowling/va-web-style-updates/master/_all.css);
 `
 ### VA.com (caps headings)
 * Mega-nav (level 1 and titles for level 2)
@@ -14,3 +14,7 @@
 * Homepage promo squares
 * Heading 1, heading 2 and heading 3 for content pages
 * Top fares title
+
+### VA.com (colours)
+* Homepage gradient panel
+* Homepage promo box
