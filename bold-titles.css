@@ -38,3 +38,9 @@
 .corporate-login-heading {
     font-size: 20px;
 }
+
+/* Increase letter spacing of page headings and banner heading */
+.overlay .bannerHeader,
+#pageName h1, #pageName-trim h1 {
+    letter-spacing: 4px !important;
+}
