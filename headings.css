@@ -41,6 +41,6 @@
 
 
 /* IBE - Remove flight icon on select flights page */
-.SPR .flc #flight_1 .flight-list-header-container .flight-info {
-    background-image: none !important
+.SPR .flc .flight-list-header-container .flight-info {
+    background-image: none !important;
 }
