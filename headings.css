@@ -12,7 +12,8 @@
 .overlay .bannerHeader span,
  /* IBE */
  #ibe-page-name span, /* Book a flight text */
-.SPR #flc_1 h2, 
+.SPR #flc_1 h2,
+#passenger-accordion h2, /* Passengers */
 #seats_1 h2, /* Seat title */
 h2.ancillary-name,
 h3.car-title, /* Cars */
