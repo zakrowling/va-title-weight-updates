@@ -15,7 +15,8 @@
 .SPR #flc_1 h2, 
 #seats_1 h2, /* Seat title */
 h2.ancillary-name,
-h3.car-title {
+h3.car-title,
+.insurance h2 {
     letter-spacing: 2px !important;
     text-transform: uppercase !important;
     font-family: "Montserrat-SemiBold" !important;
