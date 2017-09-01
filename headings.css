@@ -13,7 +13,7 @@
 #booking-process .process-bar li.stepNavigation, /* IBE */
 .SPR #flc_1 h2 {
     letter-spacing: 2px;
-    text-transform: uppercase;
+    text-transform: uppercase !important;
     font-family: "Montserrat-SemiBold" !important;
 }
 
