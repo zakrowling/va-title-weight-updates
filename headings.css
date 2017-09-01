@@ -16,7 +16,8 @@
 #seats_1 h2, /* Seat title */
 h2.ancillary-name,
 h3.car-title, /* Cars */
-.insurance h2 /* Insurance */ {
+.insurance h2, /* Insurance */
+#payment h2 /* Payment */ {
     letter-spacing: 2px !important;
     text-transform: uppercase !important;
     font-family: "Montserrat-SemiBold" !important;
