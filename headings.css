@@ -12,7 +12,8 @@
 .overlay .bannerHeader span,
 
 /* IBE */
-#booking-process .process-bar li.stepNavigation {
+#booking-process .process-bar li.stepNavigation,
+.SPR #flc_1 h2 {
     letter-spacing: 2px;
     text-transform: uppercase;
     font-family: "Montserrat-SemiBold" !important;
