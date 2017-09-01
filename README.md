@@ -18,3 +18,14 @@
 ### VA.com (colours)
 * Homepage gradient panel
 * Homepage promo box
+
+### Desktop IBE (caps headings)
+* Book a flight title in header
+* [Select] Select your departing flight title
+* [Select] Select your returning flight title
+* [Select] Departing flight and Returning flight modify titles
+* [Guest] Enter guest details title
+* [Guest] Enter guest details title
+* [Seating] Your seat reservation title
+* [Extras] Checked baggage title, Carbon offset title, Add a car title
+* [Payment] Travel insurance title, Complete payment title, Fare Rules title
