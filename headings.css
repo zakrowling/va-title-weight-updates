@@ -11,7 +11,8 @@
 .overlay .bannerHeader,
 .overlay .bannerHeader span,
  /* IBE */
-.SPR #flc_1 h2 {
+.SPR #flc_1 h2,
+#seats_1 h2 {
     letter-spacing: 2px !important;
     text-transform: uppercase !important;
     font-family: "Montserrat-SemiBold" !important;
