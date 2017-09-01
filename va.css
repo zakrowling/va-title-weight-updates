@@ -1,15 +1,4 @@
-
-/* Apply block styling to VA.com headings */
-
-@font-face {
-    font-family: "Montserrat-SemiBold";
-    src: url("https://img.virginaustralia.com/cs/groups/internetasset/@wc/documents/webasset/~edisp/css_font_montserrat_semi_eot.eot");
-    src: url("https://img.virginaustralia.com/cs/groups/internetasset/@wc/documents/webasset/~edisp/css_font_montserrat_semi_eot.eot?") format('embedded-opentype'), url("https://img.virginaustralia.com/cs/groups/internetasset/@wc/documents/webasset/~edisp/css_font_montserrat_semi_otf.otf") format('opentype');
-    font-weight: normal;
-    font-style: normal;
-    font-variant: normal;
-}
-
+/* VA.com - make elements block caps */
 #mega-nav ul.level1 li.mega-nav-item  a span.mega-nav-shim-left,
 .gradient-panel-header,
 .promo-squares h4,
@@ -26,6 +15,8 @@
     font-family: "Montserrat-SemiBold" !important;
 }
 
+
+/* VA.com - Mega-nav font updates */
 #mega-nav ul.level1 li.mega-nav-item  a span.mega-nav-shim-left {
     font-size: 12px;
     letter-spacing: 0.5px;
