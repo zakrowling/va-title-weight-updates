@@ -10,7 +10,8 @@
 .topfares,
 .overlay .bannerHeader,
 .overlay .bannerHeader span,
-#booking-process .process-bar li.stepNavigation, /* IBE */
+#booking-process .process-bar li.stepNavigation span,
+#booking-process .process-bar li.stepNavigation strong, /* IBE */
 .SPR #flc_1 h2 {
     letter-spacing: 2px;
     text-transform: uppercase !important;
