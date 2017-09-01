@@ -20,7 +20,7 @@ h3.car-title, /* Cars */
 .insurance h2, /* Insurance */
 #payment h2, /* Payment */
 #farerules h2 /* Fare rules */ {
-    letter-spacing: 2px !important;
+    letter-spacing: 2px;
     text-transform: uppercase !important;
     font-family: "Montserrat-SemiBold" !important;
 }
@@ -31,6 +31,7 @@ h3.car-title, /* Cars */
     font-size: 12px;
     letter-spacing: 0.5px;
     padding: 0 15px !important;
+    font-family: "Montserrat-Light" !important;
 }
 
 .mega-nav-content .mega-nav-group .level2 .mega-nav-sub-name {
