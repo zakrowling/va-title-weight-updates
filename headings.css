@@ -14,7 +14,7 @@
  #ibe-page-name span, /* Book a flight text */
 .SPR #flc_1 h2,
 #passenger-accordion h2, /* Passengers */
-#seats_1 h2, /* Seat title */
+#seats_1 .seat-map-header h2, /* Seat title */
 h2.ancillary-name,
 h3.car-title, /* Cars */
 .insurance h2, /* Insurance */
