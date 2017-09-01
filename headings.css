@@ -33,8 +33,14 @@
     font-size: 20px;
 }
 
-/* Increase letter spacing of page headings and banner heading */
+/* VA.com Increase letter spacing of page headings and banner heading */
 #pageName h1, #pageName-trim h1,
 .overlay .bannerHeader {
     letter-spacing: 4px !important;
+}
+
+
+/* IBE - Remove flight icon on select flights page */
+.SPR .flc #flight_1 .flight-list-header-container .flight-info {
+    background-image: none !important
 }
