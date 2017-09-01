@@ -10,10 +10,10 @@
 .topfares,
 .overlay .bannerHeader,
 .overlay .bannerHeader span,
-#booking-process .process-bar li.stepNavigation span,
-#booking-process .process-bar li.stepNavigation strong, /* IBE */
+#booking-process .process-bar li.stepNavigation span.navigation,
+#booking-process .process-bar li.stepNavigation span.navigation strong, /* IBE */
 .SPR #flc_1 h2 {
-    letter-spacing: 2px;
+    letter-spacing: 2px !important;
     text-transform: uppercase !important;
     font-family: "Montserrat-SemiBold" !important;
 }
