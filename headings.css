@@ -9,7 +9,10 @@
 .free-text h1, .free-text h2, .free-text h3,
 .topfares,
 .overlay .bannerHeader,
-.overlay .bannerHeader span {
+.overlay .bannerHeader span,
+
+/* IBE */
+#booking-process .process-bar li.stepNavigation {
     letter-spacing: 2px;
     text-transform: uppercase;
     font-family: "Montserrat-SemiBold" !important;
