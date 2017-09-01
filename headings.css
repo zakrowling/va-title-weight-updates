@@ -15,8 +15,8 @@
 .SPR #flc_1 h2, 
 #seats_1 h2, /* Seat title */
 h2.ancillary-name,
-h3.car-title,
-.insurance h2 {
+h3.car-title, /* Cars */
+.insurance h2 /* Insurance */ {
     letter-spacing: 2px !important;
     text-transform: uppercase !important;
     font-family: "Montserrat-SemiBold" !important;
@@ -36,6 +36,12 @@ h3.car-title,
 
 .corporate-login-heading {
     font-size: 20px;
+}
+
+/* IBE - Insurance subtitle fix */
+#insurance .insurance-wrapper h2 span {
+    letter-spacing: 0px !important;
+    text-transform: none !important;
 }
 
 /* VA.com Increase letter spacing of page headings and banner heading */
