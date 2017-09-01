@@ -41,7 +41,8 @@ h3.car-title, /* Cars */
 }
 
 /* IBE - Insurance subtitle fix */
-#insurance .insurance-wrapper h2 span {
+#insurance .insurance-wrapper h2 span,
+.seat-map-segment h2 span {
     letter-spacing: 0px !important;
     text-transform: none !important;
 }
