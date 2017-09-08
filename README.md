@@ -7,6 +7,9 @@
 `
 @import url(https://rawgit.com/zakrowling/va-web-style-updates/master/_all.css);
 `
+### VA.com (fonts)
+* Force all fonts to be Montserrat
+
 ### VA.com (caps headings)
 * Mega-nav (level 1 and titles for level 2)
 * Mega-nav business travel titles
