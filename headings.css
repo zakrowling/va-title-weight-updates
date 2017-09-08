@@ -50,9 +50,12 @@ h3.car-title, /* Cars */
 }
 
 /* VA.com Increase letter spacing of page headings and banner heading */
-#pageName h1, #pageName-trim h1,
-.overlay .bannerHeader {
+#pageName h1, #pageName-trim h1 {
     letter-spacing: 4px !important;
+}
+
+.overlay .bannerHeader {
+    letter-spacing: 8px !important;
 }
 
 
