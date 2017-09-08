@@ -1,11 +1,14 @@
 .gradient-wrapper,
 .gradient-panel-header,
-.gradient-panel-body,
-.promo-square:first-child .promo-overlay {
-    opacity: 1;
+.gradient-panel-body {
     background: #5c2482 !important;
 }
 
 .spec-header {
     color: #5c2482 !important;
+}
+
+.promo-squares .promo-square:first-child .promo-overlay {
+    opacity: 1;
+    background-color: #36424a !important;
 }
