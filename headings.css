@@ -54,7 +54,7 @@ h3.car-title, /* Cars */
     letter-spacing: 4px !important;
 }
 
-.overlay .bannerHeader {
+.bannerHeader.whiteHeader {
     letter-spacing: 8px !important;
 }
 
